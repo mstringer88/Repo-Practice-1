@@ -1,17 +1,19 @@
 # Repo-Practice-1
 
 List of SEC football teams:
+SEC WEST
 * Alabama
 * Auburn
-* Georgia
-* Florida
-* South Carolina
-* Vanderbilt
-* Tennessee
-* Mississippi State
+* LSU
 * Ole Miss
-* Kentucky
+* Mississippi State
 * Arkansas
 * Texas A&M
+SEC EAST
+* Georgia
+* Tennessee
+* Kentucky
+* Vanderbilt
+* South Carolina
 * Missouri
-* LSU
+* Florida
