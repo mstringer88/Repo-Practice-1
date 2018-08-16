@@ -1,7 +1,9 @@
 # Repo-Practice-1
 
 List of SEC football teams:
+
 SEC WEST
+
 * Alabama
 * Auburn
 * LSU
@@ -9,7 +11,9 @@ SEC WEST
 * Mississippi State
 * Arkansas
 * Texas A&M
+
 SEC EAST
+
 * Georgia
 * Tennessee
 * Kentucky
